@@ -13,4 +13,9 @@ class Example extends BaseController
 	{
 		return view('example/dataTable');
 	}
+
+	public function googleChart()
+	{
+		return view('example/googleChart');
+	}
 }
