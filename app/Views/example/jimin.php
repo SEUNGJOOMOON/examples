@@ -13,26 +13,26 @@
   <meta property="og:type" content="website" />
   <meta property="og:title" content="구민♥주희 청첩장" />
   <meta property="og:description" content="구민이와 주희의 결혼식에 초대합니다!" />
-  <meta property="og:image" content="https://9min.github.io/wedding-invitation/src/images/visual/main.jpg" />
+  <meta property="og:image" content="https://9min.github.io/wedding-invitation//resources/images/visual/main.jpg" />
   <meta name="theme-color" content="#fafafa" />
   <link rel="manifest" href="site.webmanifest" />
   <link rel="shortcut icon" href="/favicon.ico" />
-  <link rel="icon" href="src/images/icon/favicon.png" />
-  <link rel="apple-touch-icon" href="src/images/icon/favicon.png" />
-  <link rel="stylesheet" href="src/css/reset.css" />
-  <link rel="stylesheet" href="src/css/fontawesome.min.css" />
+  <link rel="icon" href="/resources/images/icon/favicon.png" />
+  <link rel="apple-touch-icon" href="/resources/images/icon/favicon.png" />
+  <link rel="stylesheet" href="/resources/css/reset.css" />
+  <link rel="stylesheet" href="/resources/css/fontawesome.min.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-  <link rel="stylesheet" href="src/css/main.css?20200824" />
-  <link rel="stylesheet" href="src/css/lightgallery.min.css" />
+  <link rel="stylesheet" href="/resources/css/main.css?20200824" />
+  <link rel="stylesheet" href="/resources/css/lightgallery.min.css" />
   <link
     href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&family=Nanum+Myeongjo:wght@400;700;800&display=swap"
     rel="stylesheet" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.4.2/gsap.min.js"></script>
-  <script src="src/js/lib/modernizr-3.11.2.min.js"></script>
-  <script src="src/js/lib/lightgallery.min.js"></script>
-  <script src="src/js/lib/lg-thumbnail.min.js"></script>
-  <script src="src/js/lib/lg-fullscreen.min.js"></script>
-  <script src="src/js/lib/kakao.min.js"></script>
+  <script src="/resources/js/lib/modernizr-3.11.2.min.js"></script>
+  <script src="/resources/js/lib/lightgallery.min.js"></script>
+  <script src="/resources/js/lib/lg-thumbnail.min.js"></script>
+  <script src="/resources/js/lib/lg-fullscreen.min.js"></script>
+  <script src="/resources/js/lib/kakao.min.js"></script>
 </head>
 
 <body>
@@ -41,7 +41,7 @@
     <section class="info">
       <h2 class="blind">결혼식 정보</h2>
       <strong id="dday" class="dday">&nbsp;</strong>
-      <img src="src/images/visual/main.jpg" alt="신랑신부사진" class="img_visual" />
+      <img src="/resources/images/visual/main.jpg" alt="신랑신부사진" class="img_visual" />
       <div id="cover" class="cover"></div>
       <p class="tit"><em>권구민</em> 그리고 <em>한주희</em></p>
       <time datetime="2020-11-14 17:30">2020년 11월 14일 토요일 오후 5시 30분</time>
@@ -136,38 +136,38 @@
         <span class="ico wife">&nbsp;</span>
       </div>
       <ul id="gallery" class="container">
-        <li class="item_1" data-src="src/images/gallery/1.jpg">
-          <img src="src/images/gallery/thumb-1.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_1" data-src="/resources/images/gallery/1.jpg">
+          <img src="/resources/images/gallery/thumb-1.jpg" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_2" data-src="src/images/gallery/2.jpg">
-          <img src="src/images/gallery/thumb-2.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_2" data-src="/resources/images/gallery/2.jpg">
+          <img src="/resources/images/gallery/thumb-2.jpg" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_3" data-src="src/images/gallery/3.jpg">
-          <img src="src/images/gallery/thumb-3.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_3" data-src="/resources/images/gallery/3.jpg">
+          <img src="/resources/images/gallery/thumb-3.jpg" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_4" data-src="src/images/gallery/4.jpg">
-          <img src="src/images/gallery/thumb-4.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_4" data-src="/resources/images/gallery/4.jpg">
+          <img src="/resources/images/gallery/thumb-4.jpg" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_5" data-src="src/images/gallery/5.jpg">
-          <img src="src/images/gallery/thumb-5.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_5" data-src="/resources/images/gallery/5.jpg">
+          <img src="/resources/images/gallery/thumb-5.jpg" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_6" data-src="src/images/gallery/6.jpg">
-          <img src="src/images/gallery/thumb-6.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_6" data-src="/resources/images/gallery/6.jpg">
+          <img src="/resources/images/gallery/thumb-6.jpg" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_7" data-src="src/images/gallery/7.jpg">
-          <img src="src/images/gallery/thumb-7.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_7" data-src="/resources/images/gallery/7.jpg">
+          <img src="/resources/images/gallery/thumb-7.jpg" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_8" data-src="src/images/gallery/8.jpg">
-          <img src="src/images/gallery/thumb-8.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_8" data-src="/resources/images/gallery/8.jpg">
+          <img src="/resources/images/gallery/thumb-8.jpg" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_9" data-src="src/images/gallery/9.jpg">
-          <img src="src/images/gallery/thumb-9.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_9" data-src="/resources/images/gallery/9.jpg">
+          <img src="/resources/images/gallery/thumb-9.jpg" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_10" data-src="src/images/gallery/10.jpg">
-          <img src="src/images/gallery/thumb-10.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_10" data-src="/resources/images/gallery/10.jpg">
+          <img src="/resources/images/gallery/thumb-10.jpg" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_11" data-src="src/images/gallery/11.jpg">
-          <img src="src/images/gallery/thumb-11.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_11" data-src="/resources/images/gallery/11.jpg">
+          <img src="/resources/images/gallery/thumb-11.jpg" alt="스튜디오 촬영 사진" />
         </li>
       </ul>
       <p class="description">이미지를 클릭하시면 확대해서 볼 수 있습니다.</p>
@@ -188,7 +188,7 @@
       </div>
       <div class="map">
         <div class="view">
-          <img src="src/images/location/map.jpg" alt="지도 이미지" />
+          <img src="/resources/images/location/map.jpg" alt="지도 이미지" />
         </div>
         <div class="third_party">
           <ul>
@@ -300,7 +300,7 @@
       </ul>
     </aside>
   </main>
-  <script src="src/js/main.min.js?20201206"></script>
+  <script src="/resources/js/main.min.js?20201206"></script>
 </body>
 
 </html>
