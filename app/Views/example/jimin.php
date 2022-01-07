@@ -7,13 +7,11 @@
   <meta name="msapplication-tap-highlight" content="no" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>승주♥지민</title>
-  <meta name="description" content="구민이와 주희의 결혼식에 초대합니다!" />
+  <meta name="description" content="지민이랑 영덕여행 가고 싶어용" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta property="og:url" content="https://9min.github.io/wedding-invitation/" />
-  <meta property="og:type" content="website" />
-  <meta property="og:title" content="구민♥주희 청첩장" />
-  <meta property="og:description" content="구민이와 주희의 결혼식에 초대합니다!" />
-  <meta property="og:image" content="https://9min.github.io/wedding-invitation//resources/images/visual/main.jpg" />
+  <meta property="og:title" content="지민 공주님 여행 초대장🥰" />
+  <meta property="og:description" content="지민이랑 영덕여행 가고 싶어용" />
+  <meta property="og:image" content="http://nick-web.kr/examples/public/resources/images/gallery/12.jpeg" />
   <meta name="theme-color" content="#fafafa" />
   <link rel="manifest" href="site.webmanifest" />
   <link rel="shortcut icon" href="/favicon.ico" />
@@ -160,10 +158,10 @@
         <li class="item_9" data-src="http://nick-web.kr/examples/public/resources/images/gallery/9.jpeg">
           <img src="http://nick-web.kr/examples/public/resources/images/gallery/9.jpge" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_10" data-src="http://nick-web.kr/examples/public/resources/images/gallery/10.ejpg">
+        <li class="item_10" data-src="http://nick-web.kr/examples/public/resources/images/gallery/10.jpeg">
           <img src="http://nick-web.kr/examples/public/resources/images/gallery/10.jpeg" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_11" data-src="http://nick-web.kr/examples/public/resources/images/gallery/11.ejpg">
+        <li class="item_11" data-src="http://nick-web.kr/examples/public/resources/images/gallery/11.jpeg">
           <img src="http://nick-web.kr/examples/public/resources/images/gallery/11.jpeg" alt="스튜디오 촬영 사진" />
         </li>
       </ul>
