@@ -17,22 +17,22 @@
   <meta name="theme-color" content="#fafafa" />
   <link rel="manifest" href="site.webmanifest" />
   <link rel="shortcut icon" href="/favicon.ico" />
-  <link rel="icon" href="/resources/images/icon/favicon.png" />
-  <link rel="apple-touch-icon" href="/resources/images/icon/favicon.png" />
-  <link rel="stylesheet" href="/resources/css/reset.css" />
-  <link rel="stylesheet" href="/resources/css/fontawesome.min.css" />
+  <link rel="icon" href="http://nick-web.kr/examples/public/resources/images/icon/favicon.png" />
+  <link rel="apple-touch-icon" href="http://nick-web.kr/examples/public/resources/images/icon/favicon.png" />
+  <link rel="stylesheet" href="http://nick-web.kr/examples/public/resources/css/reset.css" />
+  <link rel="stylesheet" href="http://nick-web.kr/examples/public/resources/css/fontawesome.min.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-  <link rel="stylesheet" href="/resources/css/main.css?20200824" />
-  <link rel="stylesheet" href="/resources/css/lightgallery.min.css" />
+  <link rel="stylesheet" href="http://nick-web.kr/examples/public/resources/css/main.css?20200824" />
+  <link rel="stylesheet" href="http://nick-web.kr/examples/public/resources/css/lightgallery.min.css" />
   <link
     href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&family=Nanum+Myeongjo:wght@400;700;800&display=swap"
     rel="stylesheet" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.4.2/gsap.min.js"></script>
-  <script src="/resources/js/lib/modernizr-3.11.2.min.js"></script>
-  <script src="/resources/js/lib/lightgallery.min.js"></script>
-  <script src="/resources/js/lib/lg-thumbnail.min.js"></script>
-  <script src="/resources/js/lib/lg-fullscreen.min.js"></script>
-  <script src="/resources/js/lib/kakao.min.js"></script>
+  <script src="http://nick-web.kr/examples/public/resources/js/lib/modernizr-3.11.2.min.js"></script>
+  <script src="http://nick-web.kr/examples/public/resources/js/lib/lightgallery.min.js"></script>
+  <script src="http://nick-web.kr/examples/public/resources/js/lib/lg-thumbnail.min.js"></script>
+  <script src="http://nick-web.kr/examples/public/resources/js/lib/lg-fullscreen.min.js"></script>
+  <script src="http://nick-web.kr/examples/public/resources/js/lib/kakao.min.js"></script>
 </head>
 
 <body>
@@ -41,7 +41,7 @@
     <section class="info">
       <h2 class="blind">여행!!</h2>
       <strong id="dday" class="dday">&nbsp;</strong>
-      <img src="/resources/images/visual/main.jpeg" alt="" class="img_visual" />
+      <img src="http://nick-web.kr/examples/public/resources/images/visual/main.jpeg" alt="" class="img_visual" />
       <div id="cover" class="cover"></div>
       <br/>
       <time datetime="2020-11-14 17:30">2022년 01월 15일 ~ 2022년 01월 16일</time>
@@ -133,43 +133,43 @@
         <span class="ico wife">&nbsp;</span>
       </div>
       <ul id="gallery" class="container">
-        <li class="item_1" data-src="/resources/images/gallery/1.jpeg">
-          <img src="/resources/images/gallery/1.jpeg" alt="스튜디오 촬영 사진" />
+        <li class="item_1" data-src="http://nick-web.kr/examples/public/resources/images/gallery/1.jpeg">
+          <img src="http://nick-web.kr/examples/public/resources/images/gallery/1.jpeg" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_2" data-src="/resources/images/gallery/2.jpeg">
-          <img src="/resources/images/gallery/2.jpeg" alt="스튜디오 촬영 사진" />
+        <li class="item_2" data-src="http://nick-web.kr/examples/public/resources/images/gallery/2.jpeg">
+          <img src="http://nick-web.kr/examples/public/resources/images/gallery/2.jpeg" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_3" data-src="/resources/images/gallery/3.jpeg">
-          <img src="/resources/images/gallery/3.jpge" alt="스튜디오 촬영 사진" />
+        <li class="item_3" data-src="http://nick-web.kr/examples/public/resources/images/gallery/3.jpeg">
+          <img src="http://nick-web.kr/examples/public/resources/images/gallery/3.jpge" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_4" data-src="/resources/images/gallery/4.jpeg">
-          <img src="/resources/images/gallery/4.jpge" alt="스튜디오 촬영 사진" />
+        <li class="item_4" data-src="http://nick-web.kr/examples/public/resources/images/gallery/4.jpeg">
+          <img src="http://nick-web.kr/examples/public/resources/images/gallery/4.jpge" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_5" data-src="/resources/images/gallery/5.jpeg">
-          <img src="/resources/images/gallery/5.jpge" alt="스튜디오 촬영 사진" />
+        <li class="item_5" data-src="http://nick-web.kr/examples/public/resources/images/gallery/5.jpeg">
+          <img src="http://nick-web.kr/examples/public/resources/images/gallery/5.jpge" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_6" data-src="/resources/images/gallery/6.jpeg">
-          <img src="/resources/images/gallery/6.jpge" alt="스튜디오 촬영 사진" />
+        <li class="item_6" data-src="http://nick-web.kr/examples/public/resources/images/gallery/6.jpeg">
+          <img src="http://nick-web.kr/examples/public/resources/images/gallery/6.jpge" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_7" data-src="/resources/images/gallery/7.jpeg">
-          <img src="/resources/images/gallery/7.jpge" alt="스튜디오 촬영 사진" />
+        <li class="item_7" data-src="http://nick-web.kr/examples/public/resources/images/gallery/7.jpeg">
+          <img src="http://nick-web.kr/examples/public/resources/images/gallery/7.jpge" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_8" data-src="/resources/images/gallery/8.jpeg">
-          <img src="/resources/images/gallery/8.jpge" alt="스튜디오 촬영 사진" />
+        <li class="item_8" data-src="http://nick-web.kr/examples/public/resources/images/gallery/8.jpeg">
+          <img src="http://nick-web.kr/examples/public/resources/images/gallery/8.jpge" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_9" data-src="/resources/images/gallery/9.jpeg">
-          <img src="/resources/images/gallery/9.jpge" alt="스튜디오 촬영 사진" />
+        <li class="item_9" data-src="http://nick-web.kr/examples/public/resources/images/gallery/9.jpeg">
+          <img src="http://nick-web.kr/examples/public/resources/images/gallery/9.jpge" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_10" data-src="/resources/images/gallery/10.ejpg">
-          <img src="/resources/images/gallery/10.jpeg" alt="스튜디오 촬영 사진" />
+        <li class="item_10" data-src="http://nick-web.kr/examples/public/resources/images/gallery/10.ejpg">
+          <img src="http://nick-web.kr/examples/public/resources/images/gallery/10.jpeg" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_11" data-src="/resources/images/gallery/11.ejpg">
-          <img src="/resources/images/gallery/11.jpeg" alt="스튜디오 촬영 사진" />
+        <li class="item_11" data-src="http://nick-web.kr/examples/public/resources/images/gallery/11.ejpg">
+          <img src="http://nick-web.kr/examples/public/resources/images/gallery/11.jpeg" alt="스튜디오 촬영 사진" />
         </li>
       </ul>
     </section>
   </main>
-  <script src="/resources/js/main.js?20201206"></script>
+  <script src="http://nick-web.kr/examples/public/resources/js/main.js?20201206"></script>
 </body>
 
 </html>
