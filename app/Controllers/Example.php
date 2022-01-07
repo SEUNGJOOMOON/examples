@@ -24,4 +24,9 @@ class Example extends BaseController
 	{
 		return view('example/tableExcel');
 	}
+
+	public function jimin()
+	{
+		return view('example/jimin');
+	}
 }
