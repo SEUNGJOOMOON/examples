@@ -11,11 +11,17 @@ class Example extends BaseController
 
 	public function dataTable()
 	{
-		return view('example/dataTable');
+		// return view(');
+		return render('example/dataTable');
 	}
 
 	public function googleChart()
 	{
 		return view('example/googleChart');
+	}
+
+	public function tableExcel()
+	{
+		return view('example/tableExcel');
 	}
 }
