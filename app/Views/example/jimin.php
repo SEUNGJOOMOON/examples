@@ -8,6 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>승주♥지민</title>
   <meta name="description" content="지민이랑 영덕여행 가고 싶어용" />
+  <meta http-equiv="Cache-Control" content="no-cache">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta property="og:title" content="지민 공주님 여행 초대장🥰" />
   <meta property="og:description" content="지민이랑 영덕여행 가고 싶어용" />
