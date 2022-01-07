@@ -12,7 +12,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta property="og:title" content="지민 공주님 여행 초대장🥰" />
   <meta property="og:description" content="지민이랑 영덕여행 가고 싶어용" />
-  <meta property="og:image" content="http://nick-web.kr/examples/public/resources/images/gallery/12.jpeg" />
+  <meta property="og:image" content="http://nick-web.kr/examples/public/resources/images/gallery/11.jpeg" />
   <meta name="theme-color" content="#fafafa" />
   <link rel="manifest" href="site.webmanifest" />
   <link rel="shortcut icon" href="/favicon.ico" />
