@@ -277,41 +277,41 @@ main {
   background-color: #ddd;
 }
 .gallery .container li.item_1 {
-  background-image: url("../images/gallery/1.jpeg");
+  background-image: url("http://nick-web.kr/examples/public/resources/images/gallery/1.jpeg");
   height: 10.5rem;
 }
 .gallery .container li.item_2 {
-  background-image: url("../images/gallery/2.jpeg");
+  background-image: url("http://nick-web.kr/examples/public/resources/images/gallery/2.jpeg");
   background-position: center 40%;
   left: 7.75rem;
 }
 .gallery .container li.item_3 {
-  background-image: url("../images/gallery/3.jpeg");
+  background-image: url("http://nick-web.kr/examples/public/resources/images/gallery/3.jpeg");
   left: auto;
   right: 0.5rem;
 }
 .gallery .container li.item_4 {
-  background-image: url("../images/gallery/4.jpeg");
+  background-image: url("http://nick-web.kr/examples/public/resources/images/gallery/4.jpeg");
   background-position: right center;
   top: 5.38rem;
   left: 7.75rem;
 }
 .gallery .container li.item_5 {
-  background-image: url("../images/gallery/5.jpeg");
+  background-image: url("http://nick-web.kr/examples/public/resources/images/gallery/5.jpeg");
   top: 5.38rem;
   left: auto;
   right: 0.5rem;
 }
 .gallery .container li.item_6 {
-  background-image: url("../images/gallery/6.jpeg");
+  background-image: url("http://nick-web.kr/examples/public/resources/images/gallery/6.jpeg");
   top: 10.75rem;
 }
 .gallery .container li.item_7 {
-  background-image: url("../images/gallery/7.jpeg");
+  background-image: url("http://nick-web.kr/examples/public/resources/images/gallery/7.jpeg");
   top: 16.1rem;
 }
 .gallery .container li.item_8 {
-  background-image: url("../images/gallery/8.jpeg");
+  background-image: url("http://nick-web.kr/examples/public/resources/images/gallery/8.jpeg");
   background-position: right center;
 
   top: 10.75rem;
@@ -320,31 +320,31 @@ main {
   height: 10.5rem;
 }
 .gallery .container li.item_9 {
-  background-image: url("../images/gallery/9.jpeg");
+  background-image: url("http://nick-web.kr/examples/public/resources/images/gallery/9.jpeg");
   top: 21.5rem;
 }
 .gallery .container li.item_10 {
-  background-image: url("../images/gallery/10.jpeg");
+  background-image: url("http://nick-web.kr/examples/public/resources/images/gallery/10.jpeg");
   top: 21.5rem;
   left: 7.75rem;
 }
 .gallery .container li.item_11 {
-  background-image: url("../images/gallery/11.jpeg");
+  background-image: url("http://nick-web.kr/examples/public/resources/images/gallery/11.jpeg");
   top: 21.5rem;
   left: auto;
   right: 0.5rem;
 }
 .gallery .container li.item_12 {
-  background-image: url("../images/gallery/12.jpeg");
+  background-image: url("http://nick-web.kr/examples/public/resources/images/gallery/12.jpeg");
   top: 26.9rem;
 }
 .gallery .container li.item_13 {
-  background-image: url("../images/gallery/thumb-13.jpg");
+  background-image: url("http://nick-web.kr/examples/public/resources/images/gallery/thumb-13.jpg");
   top: 26.9rem;
   left: 7.75rem;
 }
 .gallery .container li.item_14 {
-  background-image: url("../images/gallery/thumb-14.jpg");
+  background-image: url("http://nick-web.kr/examples/public/resources/images/gallery/thumb-14.jpg");
   left: auto;
   top: 26.9rem;
   left: auto;
