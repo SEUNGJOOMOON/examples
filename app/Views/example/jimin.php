@@ -138,25 +138,25 @@
           <img src="http://nick-web.kr/examples/public/resources/images/gallery/2.jpeg" alt="스튜디오 촬영 사진" />
         </li>
         <li class="item_3" data-src="http://nick-web.kr/examples/public/resources/images/gallery/3.jpeg">
-          <img src="http://nick-web.kr/examples/public/resources/images/gallery/3.jpge" alt="스튜디오 촬영 사진" />
+          <img src="http://nick-web.kr/examples/public/resources/images/gallery/3.jpeg" alt="스튜디오 촬영 사진" />
         </li>
         <li class="item_4" data-src="http://nick-web.kr/examples/public/resources/images/gallery/4.jpeg">
-          <img src="http://nick-web.kr/examples/public/resources/images/gallery/4.jpge" alt="스튜디오 촬영 사진" />
+          <img src="http://nick-web.kr/examples/public/resources/images/gallery/4.jpeg" alt="스튜디오 촬영 사진" />
         </li>
         <li class="item_5" data-src="http://nick-web.kr/examples/public/resources/images/gallery/5.jpeg">
-          <img src="http://nick-web.kr/examples/public/resources/images/gallery/5.jpge" alt="스튜디오 촬영 사진" />
+          <img src="http://nick-web.kr/examples/public/resources/images/gallery/5.jpeg" alt="스튜디오 촬영 사진" />
         </li>
         <li class="item_6" data-src="http://nick-web.kr/examples/public/resources/images/gallery/6.jpeg">
-          <img src="http://nick-web.kr/examples/public/resources/images/gallery/6.jpge" alt="스튜디오 촬영 사진" />
+          <img src="http://nick-web.kr/examples/public/resources/images/gallery/6.jpeg" alt="스튜디오 촬영 사진" />
         </li>
         <li class="item_7" data-src="http://nick-web.kr/examples/public/resources/images/gallery/7.jpeg">
-          <img src="http://nick-web.kr/examples/public/resources/images/gallery/7.jpge" alt="스튜디오 촬영 사진" />
+          <img src="http://nick-web.kr/examples/public/resources/images/gallery/7.jpeg" alt="스튜디오 촬영 사진" />
         </li>
         <li class="item_8" data-src="http://nick-web.kr/examples/public/resources/images/gallery/8.jpeg">
-          <img src="http://nick-web.kr/examples/public/resources/images/gallery/8.jpge" alt="스튜디오 촬영 사진" />
+          <img src="http://nick-web.kr/examples/public/resources/images/gallery/8.jpeg" alt="스튜디오 촬영 사진" />
         </li>
         <li class="item_9" data-src="http://nick-web.kr/examples/public/resources/images/gallery/9.jpeg">
-          <img src="http://nick-web.kr/examples/public/resources/images/gallery/9.jpge" alt="스튜디오 촬영 사진" />
+          <img src="http://nick-web.kr/examples/public/resources/images/gallery/9.jpeg" alt="스튜디오 촬영 사진" />
         </li>
         <li class="item_10" data-src="http://nick-web.kr/examples/public/resources/images/gallery/10.jpeg">
           <img src="http://nick-web.kr/examples/public/resources/images/gallery/10.jpeg" alt="스튜디오 촬영 사진" />
