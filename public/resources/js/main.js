@@ -23,7 +23,7 @@ class WeddingInvitation {
   }
 
   init = () => {
-    Kakao.init("1156a56912dacaa8c7473a4bec0234b9");
+    // Kakao.init("1156a56912dacaa8c7473a4bec0234b9");
   };
 
   initElements = () => {
@@ -59,21 +59,21 @@ class WeddingInvitation {
       preload: 2,
     });
 
-    addEvent(btnKakaoNavi, "click", this.onClickKakaoNavi);
-    addEvent(btnKakaoMap, "click", this.onClickKakaoMap);
-    addEvent(btnNaverMap, "click", this.onClickNaverMap);
-    addEvent(btnTMap, "click", this.onClickTMap);
-    addEvent(btnKakaoTalk, "click", this.onClickKakaoTalk);
-    addEvent(btnFacebook, "click", this.onClickShareFacebook);
-    addEvent(btnBride, "click", this.onClickBride);
-    addEvent(btnQRcode, "click", this.onClickQRcode);
+    // addEvent(btnKakaoNavi, "click", this.onClickKakaoNavi);
+    // addEvent(btnKakaoMap, "click", this.onClickKakaoMap);
+    // addEvent(btnNaverMap, "click", this.onClickNaverMap);
+    // addEvent(btnTMap, "click", this.onClickTMap);
+    // addEvent(btnKakaoTalk, "click", this.onClickKakaoTalk);
+    // addEvent(btnFacebook, "click", this.onClickShareFacebook);
+    // addEvent(btnBride, "click", this.onClickBride);
+    // addEvent(btnQRcode, "click", this.onClickQRcode);
   };
 
   dday = () => {
-    const dday = new Date("November 14, 2020 00:00:00");
+    const dday = new Date("June 23, 2020 00:00:00");
     const gap = dday.getTime() - new Date().getTime();
     const date = Math.floor(gap / (1000 * 60 * 60 * 24)) + 1;
-    this.el.dday.innerHTML = date > 0 ? `D-${date}` : `D+${Math.abs(date)}`;
+    this.el.dday.innerHTML = date > 0 ? `D-${date}` : `<span style='font-size:20px;'>지민이랑</span><br/>D+${Math.abs(date)}<br/><span style='font-size:20px;'>일째 사랑중💛</span>`;
   };
 
   balloon = () => {

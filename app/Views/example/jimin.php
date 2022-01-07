@@ -6,7 +6,7 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge" />
   <meta name="msapplication-tap-highlight" content="no" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>구민♥주희 첩첩장</title>
+  <title>승주♥지민</title>
   <meta name="description" content="구민이와 주희의 결혼식에 초대합니다!" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta property="og:url" content="https://9min.github.io/wedding-invitation/" />
@@ -37,93 +37,90 @@
 
 <body>
   <main>
-    <h1 class="blind">청첩장</h1>
+    <h1 class="blind">여행가자!</h1>
     <section class="info">
-      <h2 class="blind">결혼식 정보</h2>
+      <h2 class="blind">여행!!</h2>
       <strong id="dday" class="dday">&nbsp;</strong>
-      <img src="/resources/images/visual/main.jpg" alt="신랑신부사진" class="img_visual" />
+      <img src="/resources/images/visual/main.jpeg" alt="" class="img_visual" />
       <div id="cover" class="cover"></div>
-      <p class="tit"><em>권구민</em> 그리고 <em>한주희</em></p>
-      <time datetime="2020-11-14 17:30">2020년 11월 14일 토요일 오후 5시 30분</time>
-      <address>엠타워컨벤션 6층 파티오볼룸</address>
+      <br/>
+      <time datetime="2020-11-14 17:30">2022년 01월 15일 ~ 2022년 01월 16일</time>
+      <address>영덕 대게 뿌시러가는 여행</address>
     </section>
     <section class="greeting">
-      <h2 class="blind">인사말</h2>
       <ul class="message">
         <li>
-          <p>구름 따라 두 사람이 사랑으로 하나 되어 한 길을 가고자 합니다.</p>
-        </li>
-        <li>
-          <p>민들레 꽃말처럼 행복하고 감사하는 마음을 갖고 살아가겠습니다.</p>
-        </li>
-        <li>
-          <p>
-            주어진 남편, 아내의 역할에 최선을 다하며 서로를 존중하겠습니다.
-          </p>
-        </li>
-        <li>
-          <p>
-            희망찬 앞날을 축복하시어 귀한 발걸음 해 주시면 감사하겠습니다.
+          <p>지민이랑 함께하는 영덕여행<br/>
+            🧡 💛 💚 💙 💜 
+            <br/>
+            많이 웃고 함께 즐거운 여행하고 와요💛
+            <br/>
+            올해는 더 많이 웃고 서로 즐겁고 의지할 수 있게<br/>
+            서로 좀 더 성숙해지는 한해가 되었으면 좋겠어요.
+            <br/>
+            <br/>
+            항상 하던 것처럼 서로 잘하고 잘 만나는 2022년이 되길💙
+            <br/>
+            지민이의 승주가 💜
+            <br/>
+            <br/>
+            지금까지 함께 한 순간들!!<br/>앞으로도 같이 채워나가요!!!🥰 <br/>🔽🔽🔽🔽🔽🔽 
           </p>
         </li>
       </ul>
-      <div class="family">
-        <p><em>권영호</em><em>주춘자</em>의 장남 <strong>구민</strong></p>
-        <p><em>한정균</em><em>석경옥</em>의 장녀 <strong>주희</strong></p>
-      </div>
     </section>
     <section class="calendar">
       <h2 class="blind">달력</h2>
       <div class="contents">
         <div class="header">
-          <span class="tit"><em><i class="fa fa-calendar"></i> 11</em> November</span>
-          <time datetime="2020-11-14 17:30">Sat. pm 5:30</time>
+          <span class="tit"><em><i class="fa fa-calendar"></i> 1</em> January</span>
+          <!-- <time datetime="2020-11-14 17:30">Sat. pm 5:30</time> -->
         </div>
-        <time datetime="2020-11">
-          <time datetime="2020-W45" class="row">
-            <time datetime="2020-11-01">1</time>
-            <time datetime="2020-11-02">2</time>
-            <time datetime="2020-11-03">3</time>
-            <time datetime="2020-11-04">4</time>
-            <time datetime="2020-11-05">5</time>
-            <time datetime="2020-11-06">6</time>
-            <time datetime="2020-11-07">7</time>
+        <time datetime="2022-01">
+          <time datetime="2022-W1" class="row">
+          <time datetime="2022-01-01"></time>
+            <time datetime="2022-01-02"></time>
+            <time datetime="2022-01-03"></time>
+            <time datetime="2022-01-04"></time>
+            <time datetime="2022-01-05"></time>
+            <time datetime="2022-01-06"></time>
+            <time datetime="2022-01-01">1</time>
           </time>
-          <time datetime="2020-W46" class="row">
-            <time datetime="2020-11-08">8</time>
-            <time datetime="2020-11-09">9</time>
-            <time datetime="2020-11-10">10</time>
-            <time datetime="2020-11-11">11</time>
-            <time datetime="2020-11-12">12</time>
-            <time datetime="2020-11-13">13</time>
-            <time class="active" datetime="2020-11-14">14</time>
+          <time datetime="2022-W1" class="row">
+            <time datetime="2022-01-01">2</time>
+            <time datetime="2022-01-02">3</time>
+            <time datetime="2022-01-03">4</time>
+            <time datetime="2022-01-04">5</time>
+            <time datetime="2022-01-05">6</time>
+            <time datetime="2022-01-06">7</time>
+            <time datetime="2022-01-07">8</time>
           </time>
-          <time datetime="2020-W47" class="row">
-            <time datetime="2020-11-15">15</time>
-            <time datetime="2020-11-16">16</time>
-            <time datetime="2020-11-17">17</time>
-            <time datetime="2020-11-18">18</time>
-            <time datetime="2020-11-19">19</time>
-            <time datetime="2020-11-20">20</time>
-            <time datetime="2020-11-21">21</time>
+          <time datetime="2022-W2" class="row">
+            <time datetime="2022-01-08">9</time>
+            <time datetime="2022-01-09">10</time>
+            <time datetime="2022-01-10">11</time>
+            <time datetime="2022-01-11">12</time>
+            <time datetime="2022-01-12">13</time>
+            <time datetime="2022-01-13">14</time>
+            <time class="active"  datetime="2022-01-14">15</time>
           </time>
-          <time datetime="2020-W48" class="row">
-            <time datetime="2020-11-22">22</time>
-            <time datetime="2020-11-23">23</time>
-            <time datetime="2020-11-24">24</time>
-            <time datetime="2020-11-25">25</time>
-            <time datetime="2020-11-26">26</time>
-            <time datetime="2020-11-27">27</time>
-            <time datetime="2020-11-28">28</time>
+          <time datetime="2022-W3" class="row">
+            <time class="active" datetime="2022-01-15">16</time>
+            <time datetime="2022-01-16">17</time>
+            <time datetime="2022-01-17">18</time>
+            <time datetime="2022-01-18">19</time>
+            <time datetime="2022-01-19">20</time>
+            <time datetime="2022-01-20">21</time>
+            <time datetime="2022-01-21">22</time>
           </time>
-          <time datetime="2020-W49" class="row">
-            <time datetime="2020-11-29">29</time>
-            <time datetime="2020-11-30">30</time>
-            <time datetime="2020-12-01">&nbsp;</time>
-            <time datetime="2020-12-02">&nbsp;</time>
-            <time datetime="2020-12-03">&nbsp;</time>
-            <time datetime="2020-12-04">&nbsp;</time>
-            <time datetime="2020-12-05">&nbsp;</time>
+          <time datetime="2022-W4" class="row">
+            <time datetime="2022-01-22">23</time>
+            <time datetime="2022-01-23">24</time>
+            <time datetime="2022-01-24">25</time>
+            <time datetime="2022-01-25">26</time>
+            <time datetime="2022-01-26">27</time>
+            <time datetime="2022-01-27">28</time>
+            <time datetime="2022-01-28">29</time>
           </time>
         </time>
       </div>
@@ -136,171 +133,43 @@
         <span class="ico wife">&nbsp;</span>
       </div>
       <ul id="gallery" class="container">
-        <li class="item_1" data-src="/resources/images/gallery/1.jpg">
-          <img src="/resources/images/gallery/thumb-1.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_1" data-src="/resources/images/gallery/1.jpeg">
+          <img src="/resources/images/gallery/1.jpeg" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_2" data-src="/resources/images/gallery/2.jpg">
-          <img src="/resources/images/gallery/thumb-2.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_2" data-src="/resources/images/gallery/2.jpeg">
+          <img src="/resources/images/gallery/2.jpeg" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_3" data-src="/resources/images/gallery/3.jpg">
-          <img src="/resources/images/gallery/thumb-3.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_3" data-src="/resources/images/gallery/3.jpeg">
+          <img src="/resources/images/gallery/3.jpge" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_4" data-src="/resources/images/gallery/4.jpg">
-          <img src="/resources/images/gallery/thumb-4.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_4" data-src="/resources/images/gallery/4.jpeg">
+          <img src="/resources/images/gallery/4.jpge" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_5" data-src="/resources/images/gallery/5.jpg">
-          <img src="/resources/images/gallery/thumb-5.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_5" data-src="/resources/images/gallery/5.jpeg">
+          <img src="/resources/images/gallery/5.jpge" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_6" data-src="/resources/images/gallery/6.jpg">
-          <img src="/resources/images/gallery/thumb-6.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_6" data-src="/resources/images/gallery/6.jpeg">
+          <img src="/resources/images/gallery/6.jpge" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_7" data-src="/resources/images/gallery/7.jpg">
-          <img src="/resources/images/gallery/thumb-7.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_7" data-src="/resources/images/gallery/7.jpeg">
+          <img src="/resources/images/gallery/7.jpge" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_8" data-src="/resources/images/gallery/8.jpg">
-          <img src="/resources/images/gallery/thumb-8.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_8" data-src="/resources/images/gallery/8.jpeg">
+          <img src="/resources/images/gallery/8.jpge" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_9" data-src="/resources/images/gallery/9.jpg">
-          <img src="/resources/images/gallery/thumb-9.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_9" data-src="/resources/images/gallery/9.jpeg">
+          <img src="/resources/images/gallery/9.jpge" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_10" data-src="/resources/images/gallery/10.jpg">
-          <img src="/resources/images/gallery/thumb-10.jpg" alt="스튜디오 촬영 사진" />
+        <li class="item_10" data-src="/resources/images/gallery/10.ejpg">
+          <img src="/resources/images/gallery/10.jpeg" alt="스튜디오 촬영 사진" />
         </li>
-        <li class="item_11" data-src="/resources/images/gallery/11.jpg">
-          <img src="/resources/images/gallery/thumb-11.jpg" alt="스튜디오 촬영 사진" />
-        </li>
-      </ul>
-      <p class="description">이미지를 클릭하시면 확대해서 볼 수 있습니다.</p>
-    </section>
-    <section class="video">
-      <h2 class="blind">식전영상</h2>
-      <iframe width="100%" height="300" src="https://www.youtube.com/embed/Gu6MmlIW7pY" frameborder="0"
-        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </section>
-    <section class="location">
-      <h2 class="blind">오시는길</h2>
-      <div class="header">
-        <address class="addr_fst">
-          <i class="fa fa-building"></i> 엠타워컨벤션 6층 파티오볼룸
-        </address>
-        <address class="addr_lst">경기 안양시 만안구 안양로 104</address>
-        <a href="tel:+0314686600" class="tel">Tel. 031-468-6600</a>
-      </div>
-      <div class="map">
-        <div class="view">
-          <img src="/resources/images/location/map.jpg" alt="지도 이미지" />
-        </div>
-        <div class="third_party">
-          <ul>
-            <li>
-              <button type="button" id="btnKakaoNavi" class="kakaonavi">
-                <span>카카오내비</span>
-              </button>
-            </li>
-            <li>
-              <button type="button" id="btnKakaoMap" class="kakaomap">
-                <span>카카오맵</span>
-              </button>
-            </li>
-            <li>
-              <button type="button" id="btnNaverMap" class="navermap">
-                <span>네이버지도</span>
-              </button>
-            </li>
-            <li>
-              <button type="button" id="btnTMap" class="tmap">
-                <span>티맵</span>
-              </button>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </section>
-    <section class="guide">
-      <h2 class="blind">안내사항</h2>
-      <ul>
-        <li>
-          <dl>
-            <dt><i class="fa fa-subway"></i> 지하철 안내</dt>
-            <dd>명학역 1번 출구 도보 이용(2분거리)</dd>
-            <dd class="noti">
-              역 바로 앞이라 지하철 이용 시 편하게 오실 수 있습니다.
-            </dd>
-          </dl>
-        </li>
-        <li class="bus">
-          <dl>
-            <dt><i class="fa fa-bus"></i> 버스 안내</dt>
-            <dd>성결대학.안양아트센터.명학역 정류장 하차</dd>
-          </dl>
-          <ul>
-            <li>
-              <span class="tit bg-color-blue-1">간선버스</span><span>541</span>
-            </li>
-            <li>
-              <span class="tit bg-color-green-1">지선버스</span><span>350, 5530, 5531, 5623, 5624</span>
-            </li>
-            <li>
-              <span class="tit bg-color-red">좌석버스</span><span>333, 1303, 3330</span>
-            </li>
-            <li>
-              <span class="tit bg-color-green-2">일반버스</span><span>1, 1-2, 3-1, 5, 5-1, 8-2, 11-2, 15, 15-2,<br />20,
-                31-7, 32,
-                35, 64, 65, 88</span>
-            </li>
-            <li>
-              <span class="tit bg-color-yellow">마을버스</span><span>10-1, 10-2</span>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <dl>
-            <dt><i class="fa fa-car"></i> 주차 안내</dt>
-            <dd>본건물 (지하 1~2층, 지상 2~4층) 1시간 40분 무료</dd>
-            <dd>외부주차 2시간 무료</dd>
-            <dd class="noti">
-              자차 이용 시 출입명부 작성으로 인하여
-              행사 당일 주차장이 많이 혼잡하오니
-              대중교통을 이용해 주시면 감사하겠습니다.
-            </dd>
-          </dl>
-        </li>
-        <li class="bank">
-          <dl>
-            <dt>계좌번호 안내</dt>
-            <dd>농협 197-01-075248 (예금주 권영호)</dd>
-          </dl>
+        <li class="item_11" data-src="/resources/images/gallery/11.ejpg">
+          <img src="/resources/images/gallery/11.jpeg" alt="스튜디오 촬영 사진" />
         </li>
       </ul>
     </section>
-    <aside class="share">
-      <div id="fb-root"></div>
-      <h2 class="blind">공유하기</h2>
-      <ul>
-        <li>
-          <button type="button" id="btnKakaoTalk" class="kakaotalk">
-            <span>카카오톡<br />공유하기 </span>
-          </button>
-        </li>
-        <li>
-          <button type="button" id="btnFacebook" class="facebook">
-            <span>페이스북<br />공유하기</span>
-          </button>
-        </li>
-        <li>
-          <button type="button" id="btnBride" class="bride">
-            <span>신부측<br />보러가기</span>
-          </button>
-        </li>
-        <li>
-          <button type="button" id="btnQRcode" class="qrcode">
-            <span>QR코드<br />발급받기</span>
-          </button>
-        </li>
-      </ul>
-    </aside>
   </main>
-  <script src="/resources/js/main.min.js?20201206"></script>
+  <script src="/resources/js/main.js?20201206"></script>
 </body>
 
 </html>

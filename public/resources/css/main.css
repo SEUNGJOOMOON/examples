@@ -67,7 +67,7 @@ main {
   display: block;
   position: absolute;
   width: 100%;
-  margin-top: 3rem;
+  margin-top: 0.5rem;
   font-size: 1.3rem;
   color: #c5b8a0;
   animation: color-animation 1s ease infinite;
@@ -116,14 +116,12 @@ main {
 
 /* 인사말 */
 .greeting {
-  margin-top: 6rem;
   font-family: "Nanum Myeongjo";
 }
 .greeting .message {
   margin-bottom: 5rem;
-  padding: 9rem 3.2rem 0 3.2rem;
+  padding: 2rem 3.2rem 0 3.2rem;
   text-align: left;
-  background-image: url("../images/icon/ring.png");
   background-size: 2rem;
   background-repeat: no-repeat;
   background-position: top center;
@@ -225,7 +223,7 @@ main {
 
 /* 갤러리 */
 .gallery {
-  margin-top: 10rem;
+  margin-top: 3rem;
 }
 .gallery .tit {
   display: inline-block;
@@ -279,41 +277,41 @@ main {
   background-color: #ddd;
 }
 .gallery .container li.item_1 {
-  background-image: url("../images/gallery/thumb-1.jpg");
+  background-image: url("../images/gallery/1.jpeg");
   height: 10.5rem;
 }
 .gallery .container li.item_2 {
-  background-image: url("../images/gallery/thumb-2.jpg");
+  background-image: url("../images/gallery/2.jpeg");
   background-position: center 40%;
   left: 7.75rem;
 }
 .gallery .container li.item_3 {
-  background-image: url("../images/gallery/thumb-3.jpg");
+  background-image: url("../images/gallery/3.jpeg");
   left: auto;
   right: 0.5rem;
 }
 .gallery .container li.item_4 {
-  background-image: url("../images/gallery/thumb-4.jpg");
+  background-image: url("../images/gallery/4.jpeg");
   background-position: right center;
   top: 5.38rem;
   left: 7.75rem;
 }
 .gallery .container li.item_5 {
-  background-image: url("../images/gallery/thumb-5.jpg");
+  background-image: url("../images/gallery/5.jpeg");
   top: 5.38rem;
   left: auto;
   right: 0.5rem;
 }
 .gallery .container li.item_6 {
-  background-image: url("../images/gallery/thumb-6.jpg");
+  background-image: url("../images/gallery/6.jpeg");
   top: 10.75rem;
 }
 .gallery .container li.item_7 {
-  background-image: url("../images/gallery/thumb-7.jpg");
+  background-image: url("../images/gallery/7.jpeg");
   top: 16.1rem;
 }
 .gallery .container li.item_8 {
-  background-image: url("../images/gallery/thumb-8.jpg");
+  background-image: url("../images/gallery/8.jpeg");
   background-position: right center;
 
   top: 10.75rem;
@@ -322,22 +320,22 @@ main {
   height: 10.5rem;
 }
 .gallery .container li.item_9 {
-  background-image: url("../images/gallery/thumb-9.jpg");
+  background-image: url("../images/gallery/9.jpeg");
   top: 21.5rem;
 }
 .gallery .container li.item_10 {
-  background-image: url("../images/gallery/thumb-10.jpg");
+  background-image: url("../images/gallery/10.jpeg");
   top: 21.5rem;
   left: 7.75rem;
 }
 .gallery .container li.item_11 {
-  background-image: url("../images/gallery/thumb-11.jpg");
+  background-image: url("../images/gallery/11.jpeg");
   top: 21.5rem;
   left: auto;
   right: 0.5rem;
 }
 .gallery .container li.item_12 {
-  background-image: url("../images/gallery/thumb-12.jpg");
+  background-image: url("../images/gallery/12.jpeg");
   top: 26.9rem;
 }
 .gallery .container li.item_13 {
