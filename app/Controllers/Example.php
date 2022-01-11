@@ -17,12 +17,12 @@ class Example extends BaseController
 
 	public function googleChart()
 	{
-		return view('example/googleChart');
+		return render('example/googleChart');
 	}
 
 	public function tableExcel()
 	{
-		return view('example/tableExcel');
+		return render('example/tableExcel');
 	}
 
 	public function jimin()
