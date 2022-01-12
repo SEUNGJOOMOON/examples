@@ -36,7 +36,9 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+<!-- 파일서버 load -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/1.3.8/FileSaver.min.js"></script>
+<!-- 엑셀 load -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.15.5/xlsx.full.min.js"></script>
 <style>
     .green-btn {
@@ -97,14 +99,19 @@
     </table>
 </div>
 <script>
+
+    /* 엑셀 객체로 관리 */
     var excel = {
         file_name: "",
+        /* 파일명 설정 */
         setFileName: function(name){
             this.file_name = name;
         },
+        /* 파일명 가져오기 */
         _getFileName: function(){
             return this.file_name;
         },
+        /* 다운로드 함수 */
         download: function(target, sheet_name){
             var work_book = XLSX.utils.book_new(); 
         
@@ -114,6 +121,7 @@
             
             saveAs(new Blob([this._save(work_book_down)],{type:"application/octet-stream"}), this._getFileName() + "_" + this._getCurrent() + ".xlsx");
         },
+        /* 현재 시간 */
         _getCurrent: function(){
             let today = new Date(); 
             let year = today.getFullYear();
@@ -127,18 +135,20 @@
 
             return String(year) + String(month) + String(date) + String(hours) + String(minutes) + String(seconds) + String(milliseconds);
         },
+        /* 파일 저장 */
         _save: function(s){
-            var buf = new ArrayBuffer(s.length); //convert s to arrayBuffer
-            var view = new Uint8Array(buf);  //create uint8array as viewer
-            for (var i=0; i<s.length; i++) view[i] = s.charCodeAt(i) & 0xFF; //convert to octet
+            var buf = new ArrayBuffer(s.length);
+            var view = new Uint8Array(buf); 
+            for (var i=0; i<s.length; i++) view[i] = s.charCodeAt(i) & 0xFF;
             return buf;    
         }
     }
 
+    /* 필터 대상 */
     var dt_columns =  [
         { title: "판매월", width:100},
         { title: "품목", width:100},
-    ]
+    ] 
 
     $(document).ready(function() {
 
@@ -175,6 +185,8 @@
                 { targets: 3 , render: $.fn.dataTable.render.number( ',' ) }
             ],
             "initComplete": function () {
+
+                /* 판매월, 가전종류 filter setting */
                 this.api().columns().every( function (e) {
                     if(e==0 || e==1){
                         var column = this;
@@ -198,8 +210,6 @@
         });
     } );
 
-
-//http://b1ix.net/398   
 </script>
 
 
