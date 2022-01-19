@@ -29,4 +29,9 @@ class Example extends BaseController
 	{
 		return view('example/jimin');
 	}
+
+	public function list()
+	{
+		return render('example/list');
+	}
 }

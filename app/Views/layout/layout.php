@@ -1,7 +1,8 @@
 <html>
      <head>
           <meta charset="utf-8">
-          <title>js 예제</title>
+          <title>Dev. Nick</title>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
      </head>
      <style>
           ul {
@@ -11,21 +12,20 @@
           a {
                text-decoration: none;
                outline: none;
-               color: white;
                text-decoration: none;
           }
 
-          a:link {
+          li > a:link {
                color: white;
                text-decoration: none;
           }
           
-          a:visited {
+          li > a:visited {
                color: white;
                text-decoration: none;
           }
           
-          a:hover {
+          li > a:hover {
                color: white;
                text-decoration: underline;
           }
@@ -76,14 +76,14 @@
                position: absolute;
                border-top: 1px solid #c4c4c4;
                padding-top: 15px;
-               color: #808080;
+               color: black;
                font-size: 11px;
+               text-align:center;
           }
 
           footer a {
                display: inline-block;
                margin: 0 20px 10px 20px;
-               color: #808080; font-size: 11px;
           }
 
           footer a:visited {
@@ -126,10 +126,8 @@
                <header id="header" class="header">
                     <nav>
                          <ul>
-                              <li><a href="#">메뉴1</a></li>
-                              <li><a href="">메뉴2</a></li>
-                              <li><a href="">메뉴3</a></li>
-                              <li><a href="">메뉴4</a></li>
+                              <li><a href="/">Home</a></li>
+                              <li><a href="/example/list">Examples</a></li>
                          </ul>
                     </nav>
                </header>
@@ -142,8 +140,8 @@
                </section>
                <footer id="footer" class="footer">
                     <nav>
-                         <a href='https://cocoder.tistory.com' target='_blank'>Blog</a> |
-                         <a href='https://github.com/cocoder16' target='_blank'>Github</a>
+                         <a href='https://nick901106.tistory.com/' target='_blank'>Blog</a> |
+                         <a href='https://github.com/SEUNGJOOMOON/SEUNGJOOMOON' target='_blank'><i class="fa fa-github" style="font-size:36px"></i></a>
                     </nav>
                     <p>
                          <span>저자 : nick</span><br/>
