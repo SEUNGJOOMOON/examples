@@ -126,8 +126,8 @@
                <header id="header" class="header">
                     <nav>
                          <ul>
-                              <li><a href="/">Home</a></li>
-                              <li><a href="/example/list">Examples</a></li>
+                              <li><a href="/examples/public/index.php/">Home</a></li>
+                              <li><a href="/examples/public/index.php/example/list">Examples</a></li>
                          </ul>
                     </nav>
                </header>
