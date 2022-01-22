@@ -19,17 +19,17 @@
             <tr>
                 <td style="text-align:center;">[js]data tables.js 사용하기</td>
                 <td style="text-align:center;"><a href="https://nick901106.tistory.com/3?category=985637" target="_blank"><i class="fa fa-tv" style="font-size:36px"></i></a></td>
-                <td style="text-align:center;"><a href="/example/dataTable"target="_blank" ><i class="fa fa-tv" style="font-size:36px"></i></a></td>
+                <td style="text-align:center;"><a href="/examples/public/index.php/example/dataTable"target="_blank" ><i class="fa fa-tv" style="font-size:36px"></i></a></td>
             </tr>
             <tr>
                 <td style="text-align:center;">[js]Sheet.js를 사용한 클라이언트에서 excel download 예제!</td>
                 <td style="text-align:center;"><a href="https://nick901106.tistory.com/49?category=985637" target="_blank"><i class="fa fa-tv" style="font-size:36px"></i></a></td>
-                <td style="text-align:center;"><a href="/example/tableExcel"target="_blank" ><i class="fa fa-tv" style="font-size:36px"></i></a></td>
+                <td style="text-align:center;"><a href="/examples/public/index.php/example/tableExcel"target="_blank" ><i class="fa fa-tv" style="font-size:36px"></i></a></td>
             </tr>
             <tr>
                 <td style="text-align:center;">[js]Google charts.js로 데이터 시각화를 해보자.</td>
                 <td style="text-align:center;"><a href="https://nick901106.tistory.com/12?category=985637" target="_blank"><i class="fa fa-tv" style="font-size:36px"></i></a></td>
-                <td style="text-align:center;"><a href="/example/googleChart"target="_blank" ><i class="fa fa-tv" style="font-size:36px"></i></a></td>
+                <td style="text-align:center;"><a href="/examples/public/index.php/example/googleChart"target="_blank" ><i class="fa fa-tv" style="font-size:36px"></i></a></td>
             </tr>
         </tbody>
     </table>
